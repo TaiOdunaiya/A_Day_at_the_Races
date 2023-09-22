@@ -1,3 +1,5 @@
+![image](https://github.com/TaiOdunaiya/A_Day_at_the_Races/assets/52798951/dfb52f11-b8b2-4ca7-b29a-06e24e2a6651)
+
 A Day at the Races - Betting on Winning Dogs! [C#]
 How to Play
 
