@@ -1,0 +1,18 @@
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe.config
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csprojAssemblyReference.cache
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Form1.resources
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csproj.GenerateResource.cache
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.exe
+C:\Users\t_dog\Documents\C# Projects\C#\Head First into C#\Lab 1 A Day at The Races\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.pdb
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe.config
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.exe
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\bin\Debug\A Day at the Races.pdb
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csprojAssemblyReference.cache
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Form1.resources
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.csproj.GenerateResource.cache
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.exe
+C:\Users\t_dog\Desktop\Development\A Day at the Races\A Day at the Races\obj\Debug\A Day at the Races.pdb
